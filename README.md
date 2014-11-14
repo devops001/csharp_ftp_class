@@ -1,7 +1,7 @@
 csharp_ftp_class
 ================
 
-A single file C# FTP class for you to add to your projects.
+A single file C# FTP client for you to add to your projects.
 
 Simple usage example:
 ```
